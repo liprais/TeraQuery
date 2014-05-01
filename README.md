@@ -1,4 +1,5 @@
-#TeraQuery:a Simple TERADATA Query Tool using JDBC & JRuby
+#TeraQuery:
+#a Simple TERADATA Query Tool using JDBC & JRuby
 
 ##Goal
 * This is meant to be a simple command-line tool which can be used to query TERADATA DATABASE using JDBC & JRuby
